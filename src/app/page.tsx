@@ -126,7 +126,7 @@ function getUnSize(gender:string,fit:string, size: number) {
     un_size = (size + 2.39)/0.99;
 
   }else if(gender=="W" && fit =="straight_women_hr"){
-    un_size = (size - 4.0828)/0.7957;
+    un_size = (size + 1);
   }else if(gender=="W" && fit =="straight_women_mr"){
     un_size = (size - 3.7933)/0.8322;
   }else if(gender=="W" && fit =="bootcut_women_mr"){
