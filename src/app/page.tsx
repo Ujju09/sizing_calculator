@@ -84,9 +84,6 @@ export default function Home() {
             <option value="" defaultValue={""} >
               Select your fit
             </option>
-            <option value="bootcut_men">Bootcut (Men)</option>
-            <option value="bootcut_women_mr">Bootcut (Women) (Mid Rise)</option>
-            <option value="bootcut_women_hr">Bootcut (Women) (High Rise)</option>
             <option value="straight_men">Straight Fit (Men)</option>
             <option value="straight_women_hr">Straight Fit (Women) (High Rise)</option>
             <option value="straight_women_mr">Straight Fit (Women) (Mid Rise)</option>
