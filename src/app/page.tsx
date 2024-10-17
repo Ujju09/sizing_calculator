@@ -17,7 +17,7 @@ export default function Home() {
           </span>
         </h1>
         <p className="text-sm ">
-          Currently works for men and women jeans (Straight And Bootcut Fit)
+          Currently works for men and women jeans (Straight Fit)
         </p>
       </div>
       <div className="flex  min-h-screen flex-col items-center p-4">
